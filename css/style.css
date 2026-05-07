@@ -1,5 +1,5 @@
 :root {
-  --primaryText: #fff;
+  --primaryText: #ffffff;
   --secondaryText: #90caf9;
   --primary: rgba(33, 150, 243, 0.6);
   --secondary: rgba(25, 118, 210, 0.6);
@@ -28,7 +28,7 @@ body {
   /* The linear gradient darkens the image, like putting a sunglasses lens on top of it. If you want to darken the image even more, change 0.1 (both times) to 0.3 or higher */
   background:
     linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
-    url(../images/tree.jpg);
+    url(../images/black.jpg);
   /* Prevents the browser from repeating or "tiling" the background image */
   background-repeat: no-repeat;
   background-position: center;
